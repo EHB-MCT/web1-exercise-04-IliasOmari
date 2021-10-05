@@ -1,1 +1,43 @@
-/* nothing here */
+body {
+    background-color: #011321;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+a {
+    color: red;
+    display: block;
+    margin-block-end: 30px;
+}
+
+.read {
+    text-decoration: none;
+    font-size: 30px;
+    margin-top: 50px;
+    letter-spacing: 4px;
+}
+
+.watch {
+    text-decoration: none;
+    color: white;
+    border: 5px solid #ff3030;
+    border-radius: 20px;
+    background-color: #ff3030;
+    width: 7%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 152px;
+    margin-bottom: 60px;
+    line-height: 155px;
+}
+
+p {
+    font-size: 30px;
+}
